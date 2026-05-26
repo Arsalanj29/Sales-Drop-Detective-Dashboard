@@ -11,9 +11,7 @@
 
 ## 🌐 Live Demo
 
-**→ [https://your-app-name.streamlit.app](https://your-app-name.streamlit.app)**
-
-*(Replace with your Streamlit Community Cloud URL after deployment)*
+View: https://sales-drop-detective-dashboard-hycrsn6m7t5ummbpwtheaj.streamlit.app/
 
 ---
 
